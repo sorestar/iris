@@ -6,19 +6,19 @@
 }
  @font-face {
   font-family: 'blacklisted';
-         src:url('fonts/Blacklisted.TTF') format('truetype');
+         src:url('fonts/Blacklisted.ttf') format('truetype');
    font-weight: 800;
     font-style: normal;
 }
  @font-face {
   font-family: 'extravlur';
-         src:url('fonts/ExtraBlur.TTF') format('truetype');
+         src:url('fonts/ExtraBlur.ttf') format('truetype');
    font-weight: 800;
     font-style: normal;
 }
  @font-face {
   font-family: 'coordenada';
-         src:url('fonts/Coordenadas Polares.TTF') format('truetype');
+         src:url('fonts/Coordenadas Polares.ttf') format('truetype');
    font-weight: 800;
     font-style: normal;
 }
@@ -30,7 +30,7 @@
 }
  @font-face {
   font-family: 'panic';
-         src:url('fonts/Panic.TTF') format('truetype');
+         src:url('fonts/Panic.ttf') format('truetype');
    font-weight: 800;
     font-style: normal;
 }
