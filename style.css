@@ -4,3 +4,33 @@
    font-weight: 800;
     font-style: normal;
 }
+ @font-face {
+  font-family: 'blacklisted';
+         src:url('fonts/Blacklisted.TTF') format('truetype');
+   font-weight: 800;
+    font-style: normal;
+}
+ @font-face {
+  font-family: 'extravlur';
+         src:url('fonts/ExtraBlur.TTF') format('truetype');
+   font-weight: 800;
+    font-style: normal;
+}
+ @font-face {
+  font-family: 'coordenada';
+         src:url('fonts/Coordenadas Polares.TTF') format('truetype');
+   font-weight: 800;
+    font-style: normal;
+}
+ @font-face {
+  font-family: 'romantic';
+         src:url('fonts/ROMANTIC.TTF') format('truetype');
+   font-weight: 800;
+    font-style: normal;
+}
+ @font-face {
+  font-family: 'panic';
+         src:url('fonts/Panic.TTF') format('truetype');
+   font-weight: 800;
+    font-style: normal;
+}
